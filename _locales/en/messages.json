@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "My AI Assistant",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Local AI assistant for Firefox, integrated with our RTX Sandbox.",
+    "description": "The description of the extension"
+  },
+  "welcomeMessage": {
+    "message": "Welcome to the command center!",
+    "description": "Welcome text in the popup"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Ο Βοηθός μου ΤΝ",
+    "description": "Der Name der Erweiterung auf Griechisch"
+  },
+  "extensionDescription": {
+    "message": "Τοπικός βοηθός Τεχνητής Νοημοσύνης για τον Firefox, συνδεδεμένος με το RTX Sandbox μας.",
+    "description": "Die Beschreibung der Erweiterung auf Griechisch"
+  },
+  "welcomeMessage": {
+    "message": "Καλώς ορίσατε στο κέντρο ελέγχου!",
+    "description": "Begrüßungstext im Popup auf Griechisch"
+  }
+}

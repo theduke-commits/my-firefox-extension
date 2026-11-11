@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Mein KI Assistent",
+    "description": "Der Name der Erweiterung"
+  },
+  "extensionDescription": {
+    "message": "Lokaler KI-Assistent für Firefox, integriert mit unserer RTX Sandbox.",
+    "description": "Die Beschreibung der Erweiterung"
+  },
+  "welcomeMessage": {
+    "message": "Willkommen im Kontrollzentrum!",
+    "description": "Begrüßungstext im Popup"
+  }
+}
